@@ -6,7 +6,7 @@ Hi there! 👋 I'm Ciaran, a passionate **Web Developer & Tutor** with expertise
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Languages:** JavaScript, HTML5, CSS3
 - **Frontend:** React, Tailwind CSS, Next.js
 - **Backend:** Node.js, Express, MongoDB
 - **Version Control & CI/CD:** Git, GitHub Actions
