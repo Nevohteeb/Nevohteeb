@@ -43,13 +43,6 @@ Hi there! 👋 I'm Ciaran, a passionate **Web Developer & Tutor** with expertise
 
 ---
 
-## 🌱 Currently Learning
-
-- Exploring **Hydrogen** and **Remix**.
-- Deepening my knowledge of **Ecommerce Soluitons** and **Customised Storefronts**.
-
----
-
 ## 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/ciaran-slow-1a740a87/)
